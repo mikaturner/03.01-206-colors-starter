@@ -64,15 +64,18 @@ footer {
   }
 
   #column-1 {
-    background-color: palegoldenrod ;
+    background-color: palegoldenrod;
+    width: 50%;
   }
 
   #column-2 {
     background-color: khaki;
+    width: 50%;
   }
 
   #column-3 {
     background-color: darkkhaki;
+    width: 100%;
   }
 
   footer {
@@ -90,14 +93,17 @@ footer {
 
   #column-1 {
     background-color: olivedrab;
+    width: 33.33%;
   }
 
   #column-2 {
-    background-color: olive ;
+    background-color: olive;
+    width: 33.33%;
   }
 
   #column-3 {
     background-color: darkolivegreen;
+    width: 33.33%;
   }
 
   footer {
